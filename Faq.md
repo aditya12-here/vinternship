@@ -739,6 +739,9 @@ Please ensure that you've submitted the forms required which you can find in the
 **12.3 Dashboard is not loading at the moment. What should I do?**    
 The Dashboard is under update and this might cause some glitch in dashboard view. It will be resolved soon once the updates are done.  
 
+**12.4 How to check my status on Dashboard ?**    
+Please check your cohort specific page in the vinternship site and Sear  
+
 ---
 
 ## 13. IITM BS Internship
